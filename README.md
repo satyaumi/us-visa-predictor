@@ -1,3 +1,5 @@
+Here also i wrote a blgo https://medium.com/@satyamlkinf/building-a-production-ready-us-visa-approval-prediction-model-with-mlops-52696cfab3a5 check it out
+
 # MLOPs-Production-Ready-Machine-Learning-Project
 
 - Flowchart: https://whimsical.com/
